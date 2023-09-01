@@ -3,3 +3,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV0l5TXprdw==@de-ss.sshmax.xyz:8388#%F0%9F%8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNemxtWkRoaA==@us-ss.sshmax.xyz:8388#%F0%9F%87%BA%F0%9F%87%B8%20USA%20
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaak00T1dFdw==@fr-ss.sshmax.xyz:838#%F0%9F%87%AB%F0%9F%87%B7%20France%20
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPR1JoTXpkaQ==@uk-ss.sshmax.xyz:8388#%F0%9F%87%AC%F0%9F%87%A7%20United_Kingdom%20
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaVFJtWVRVeg==@pl-ss.sshmax.xyz:8388#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20
