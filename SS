@@ -2,3 +2,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV0l5TXprdw==@de-ss.sshmax.xyz:8388#%F0%9F%8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNemxtWkRoaA==@us-ss.sshmax.xyz:8388#%F0%9F%87%BA%F0%9F%87%B8%20USA%20
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPR1JoTXpkaQ==@uk-ss.sshmax.xyz:8388#%F0%9F%87%AC%F0%9F%87%A7%20United_Kingdom%20
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaVFJtWVRVeg==@pl-ss.sshmax.xyz:8388#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20
+vless://781b60fe-c46e-446b-9668-fad8b73c83a8@fi1.v2vless.xyz:80?path=%2Fvless&encryption=none&host=fi1.v2vless.xyz&sni=fi1.v2vless.xyz&type=ws#%F0%9F%87%AB%F0%9F%87%20Finland%20
+vless://0aa2a6f9-0000-4ac4-a223-3d82245bd794@tr1.v2vless.xyz:80?path=%2Fvless&encryption=none&host=tr1.v2vless.xyz&sni=tr1.v2vless.xyz&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20
