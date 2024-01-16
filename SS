@@ -1,5 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNVEpsWkdReg==@pl1.ssproxy.xyz:8388#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZV1JrTXpWaQ==@de1.ssproxy.xyz:8388#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20
-vless://a3f6da8a-89cd-43ba-a620-4b53635d1610@tr1-vless.sshmax.xyz:80?path=%2Fvless&encryption=none&host=tr1-vless.sshmax.xyz&sni=dsv.com&type=ws#sshmax-dsvbng4
-vless://a3f6da8a-89cd-43ba-a620-4b53635d1610@tr1-vless.sshmax.xyz:443?path=%2Fvless&security=tls&encryption=none&host=tr1-vless.sshmax.xyz&sni=dsv.com&type=ws#sshmax-dsvbng4
-vmess://ew0KICAgICJ2IjogIjIiLA0KICAgICJwcyI6ICJzc2htYXgtdHVybDIiLA0KICAgICJhZGQiOiAidHIyLXZtZXNzLnNzaG1heC54eXoiLA0KICAgICJwb3J0IjogIjgwIiwNCiAgICAiaWQiOiAiZWI1N2IxODgtMzhmNy00YzUyLThiYmEtMDcwMDcxYzBkYTcyIiwNCiAgICAiYWlkIjogIjAiLA0KICAgICJuZXQiOiAid3MiLA0KICAgICJzY3kiOiJhdXRvIiwNCiAgICAic25pIjoidHIyLXZtZXNzLnNzaG1heC54eXoiLA0KICAgICJ0eXBlIjogIm5vbmUiLA0KICAgICJob3N0IjogInRyMi12bWVzcy5zc2htYXgueHl6IiwNCiAgICAicGF0aCI6ICIvdm1lc3MiLA0KICAgICJ0bHMiOiAibm9uZSINCiAgICB9
