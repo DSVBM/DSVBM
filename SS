@@ -1,3 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNVEpsWkdReg==@pl1.ssproxy.xyz:8139/?plugin=obfs-local;obfs=http;obfs-host=v.whatsapp.com;obfs-uri=/#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZV1JrTXpWaQ==@de1.ssproxy.xyz:8388#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVEUzTWpFMg==@at1.ssproxy.xyz:8139/?plugin=obfs-local;obfs=http;obfs-host=v.whatsapp.com;obfs-uri=/#%F0%9F%87%A6%F0%9F%87%B9%20Australia%20
+vless://a3f6da8a-89cd-43ba-a620-4b53635d1610@tr1-vless.sshmax.xyz:80?path=%2Fvless&encryption=none&host=tr1-vless.sshmax.xyz&sni=dsv.com&type=ws#sshmax-dsvbng4
+vless://a3f6da8a-89cd-43ba-a620-4b53635d1610@tr1-vless.sshmax.xyz:443?path=%2Fvless&security=tls&encryption=none&host=tr1-vless.sshmax.xyz&sni=dsv.com&type=ws#sshmax-dsvbng4
