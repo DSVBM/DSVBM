@@ -1,2 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNVEpsWkdReg==@pl1.ssproxy.xyz:8388#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZV1JrTXpWaQ==@de1.ssproxy.xyz:8388#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPRGMxWkdSaw==@pl1.ssproxy.xyz:8388#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpabVUzWkdSaA==@de1.ssproxy.xyz:8388#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20
